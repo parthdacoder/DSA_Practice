@@ -1,3 +1,4 @@
+#Solution applied easily on Level Order Traversal
 class TreeNode(object):
     def __init__(self, val=0, left=None, right=None):
         self.val = val
