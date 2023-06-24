@@ -1,4 +1,4 @@
-
+# To calculate maximum consecutive zeroes
 def getMaxLength(arr):
     count = 0
     result = 0
